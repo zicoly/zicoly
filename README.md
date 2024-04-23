@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zicoly
 - 👀 I’m interested in Web development, coding and technology.
-- 🌱 I’m currently learning Git, HTML, CSS and JavaScript.
+- 🌱 I’m work with Git, HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on open-source projects related to web development or software engineering.
 - 📫 How to reach me omojolazion@gmail.com
 - 😄 Pronouns: he/him
