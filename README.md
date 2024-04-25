@@ -26,10 +26,6 @@
 
 <h3>Summary</h3>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zicoly&theme=tokyonight)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zicoly&theme=tokyonight&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zicoly&theme=tokyonight&exclude={exclude})
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zicoly&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zicoly&theme=tokyonight&utcOffset={utcOffset})
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=zicoly&theme=tokyonight&border_radius=5.5)](https://git.io/streak-stats)
 <h2>🛠Tech Stack</h2>
 
