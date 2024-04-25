@@ -15,7 +15,7 @@
 <li>💞️ I’m looking to collaborate on open-source projects related to web development or software engineering.</li>
 <li>📫 How to reach me -
     [<a href="omojolazion@gmail.com">Mail</a>] 
-    <span style="margin: 0 10px;">||</span> <!-- Adding a vertical bar as separator -->
+    <span style="margin: 0 10px;">||</span>
     [<a href="https://twitter.com/Zicoly_">Twitter</a>]
 </li>
 <li>😄 Pronouns: he/him</li>
@@ -24,6 +24,13 @@
 <p>💭 Ask me anything, I will be more than happy to help! 😊</p>
 <br/>
 
+<h3>Summary</h3>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zicoly&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zicoly&theme=tokyonight&exclude={exclude}) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zicoly&theme=tokyonight&exclude={exclude})
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=zicoly&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zicoly&theme=tokyonight&utcOffset={utcOffset})
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=zicoly&theme=tokyonight&border_radius=5.5)](https://git.io/streak-stats)
 <h2>🛠Tech Stack</h2>
 
 Languages
@@ -39,7 +46,6 @@ Development Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com/zicoly=DenverCoder1)](https://git.io/streak-stats)
 
 <!---
 zicoly/zicoly is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
